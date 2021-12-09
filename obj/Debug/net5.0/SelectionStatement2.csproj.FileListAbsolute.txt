@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\bin\Debug\net5.0\SelectionStatement2.exe
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\bin\Debug\net5.0\SelectionStatement2.deps.json
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\bin\Debug\net5.0\SelectionStatement2.runtimeconfig.json
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\bin\Debug\net5.0\SelectionStatement2.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\bin\Debug\net5.0\SelectionStatement2.dll
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\bin\Debug\net5.0\ref\SelectionStatement2.dll
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\bin\Debug\net5.0\SelectionStatement2.pdb
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\obj\Debug\net5.0\SelectionStatement2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\obj\Debug\net5.0\SelectionStatement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\obj\Debug\net5.0\SelectionStatement2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\obj\Debug\net5.0\SelectionStatement2.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\obj\Debug\net5.0\SelectionStatement2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\obj\Debug\net5.0\SelectionStatement2.dll
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\obj\Debug\net5.0\ref\SelectionStatement2.dll
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\obj\Debug\net5.0\SelectionStatement2.pdb
+C:\Users\PC\Desktop\C# Repos\SelectionStatement2\SelectionStatement2\obj\Debug\net5.0\SelectionStatement2.genruntimeconfig.cache
